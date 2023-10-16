@@ -1,0 +1,47 @@
+.container{
+    height:100vh;
+    width:100vh;
+    border:1px solid black;
+}
+
+.header{
+    display:flex;
+    margin-bottom: 0px;
+    height:70%;
+    justify-content: space-around;
+    background: #FFCD9E;
+}
+.leftside{
+    margin-left:20px;
+    margin-top: 10px;
+}
+.image{
+    height:50%;
+}
+ol{
+    list-style-type: none;
+}
+.footer{
+    display: flex;
+    margin-top: 0px;
+    height:30%;
+    justify-content: space-around;
+    background: #282828;
+    color:white;
+
+}
+h{
+    font-family: Inter;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+button{
+    color: white;
+    background-color: black;
+    padding: 5px;
+}
+.rightfoot{
+    text-align: end;
+}
